@@ -42,6 +42,8 @@ body {
 .main-input:hover,
 .main-input:focus {
     background: #0c0a12;
+    border-color: #0c0a12;
+    outline: none;
 }
 
 .btn-container {
