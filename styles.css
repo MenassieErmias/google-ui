@@ -41,13 +41,18 @@ body {
 }
 
 .btn {
-    background-color: #FAE3E3;
+    background-color: #161222;
     padding: 8px 16px;
     font-size: 1rem;
-    color: #161222;
+    color: #FAE3E3;
     font-family: inherit;
     border: none;
     margin: 0 4px;
-    border-radius: 18px;
+    border-radius: 10px;
     line-height: 20px;
+}
+
+.btn:hover,
+.btn:focus {
+    outline: 1px #FAE3E3 solid;
 }
