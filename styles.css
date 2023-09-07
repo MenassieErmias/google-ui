@@ -34,6 +34,14 @@ body {
     font-size: 1rem;
     font-family: inherit;
     padding: 12px 20px;
+    border: 1px #FAE3E3 solid;
+    background: #161222;
+    color: #FAE3E3;
+}
+
+.main-input:hover,
+.main-input:focus {
+    background: #0c0a12;
 }
 
 .btn-container {
